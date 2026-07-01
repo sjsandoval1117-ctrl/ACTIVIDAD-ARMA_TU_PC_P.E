@@ -1,0 +1,27 @@
+====================================================
+      TICKET DE ENSAMBLE - SISTEMA EXPERTO          
+====================================================
+Fecha de consulta: 2026-06-30 12:35:01
+
+[ COMPONENTES RECOMENDADOS ]
+ - CPU: Intel Core i5-13400F / AMD Ryzen 5 5600X
+ - Placa Base: Socket LGA 1700 / AM4
+ - RAM: 32 GB
+ - Tarjeta Grafica: RTX 5070
+ - SSD: 1TB (116 USD)
+ - PSU: 750W
+ - Disipador: 50 USD
+ - Luces RGB: Sí incluye por defecto
+ - Receptor de Red: Receptor Wi-Fi agregado.
+ - Monitor Sugerido: Monitor 4K a 120Hz/144Hz.
+
+[ ALERTAS DE RENDIMIENTO ]
+ ! PREVENCIÓN DE CUELLO DE BOTELLA: Tu tarjeta gráfica es muy potente. Usarla con un monitor 1080p limitará severamente su potencial. Invierte en un buen monitor 4K o 1440p UltraWide.
+
+[ JUSTIFICACIÓN DEL EXPERTO ]
+El sistema ha tomado estas decisiones basándose en su presupuesto 'medio' y su necesidad orientada a 'streaming'.
+- El sistema analizó la potencia gráfica deducida (Flag: GPU Fuerte) y agregó un monitor acorde a la lista para evitar cuellos de botella visuales.
+
+
+====================================================
+Gracias por utilizar nuestro sistema experto.
